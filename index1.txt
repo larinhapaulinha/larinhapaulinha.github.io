@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculo Modelo</title>
+</head>
+<body>
+    <div>
+        <h1>
+            Curriculo Modelo
+        </h1>
+        <img src="https://mega.ibxk.com.br/2015/04/04/04125846897195.jpg">
+        <h2>
+            Dados Pessoas
+        </h2>
+        <p>
+            Lara Paula Clemente da Rocha, 17 anos, cursando ensino médio integrado ao técnico
+        </p>
+    </div>
+    <div>
+        <h3>
+            Formações
+        </h3>
+        <p>
+            <ul>
+                <li>
+                    Cuidadora de gatos
+                </li>
+            
+                <li>
+                    Cidadã paranatamense- prêmio de gatos fofos
+                </li>
+            </ul>
+        </p>
+        <h3>
+            Futuros Destinos
+        </h3>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod ipsum facilis id repudiandae nesciunt sed nostrum accusantium similique? Id consectetur velit ipsam labore accusantium distinctio nisi iusto quia. Nam, illo?
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis consequuntur quae quo ut quas dignissimos possimus unde non ratione, ullam placeat odio impedit hic earum, accusamus cupiditate culpa obcaecati quidem?
+        </p>
+    </div>
+    <div>
+        <h3>
+            Repouso após viagens
+        </h3>
+        <p>
+           Ong de Gatnhos fofos - Paranatama PE
+        </p>
+
+    </div>
+</body>
+</html>
