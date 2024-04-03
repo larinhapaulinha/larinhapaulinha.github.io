@@ -1,18 +1,18 @@
 div {
-    border-left: 3px gray solid;
-    border-bottom: 6px darkgray double;
+    border-left: 4px rgb(0, 0, 0) solid;
+    border-bottom: 6px rgb(221, 27, 27) double;
     width: 800px;
     margin: auto;
   }
   .fbranco {
-    background-color: white;
+    background-color: rgb(64, 168, 128);
   }
   .flilas {
-    background-color: blueviolet;
+    background-color: rgb(163, 148, 177);
   }
   
   #fverde {
-    background-color: greenyellow;
+    background-color: rgb(224, 204, 20);
   }
   h1,
   h3 {
